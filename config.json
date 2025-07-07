@@ -1,3 +1,7 @@
 {
- "token": "your_token"
+ "ip": "MNR_SMP.aternos.me",
+ "port": "11694",
+ "name": "247bot",  
+ "auto-night-skip": "false",
+ "loginmsg": "ana bot"
 }
